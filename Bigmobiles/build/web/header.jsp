@@ -135,7 +135,7 @@
                         <nav>
                             <ul><li></li>
                                 <li><a href="index.jsp">Trang chủ</a></li>
-                                <li class="megamenu-holder"><a href="shop-left-sidebar.html">Shop</a>
+                                <li class="megamenu-holder"><a href="shop-left-sidebar.html">Thương Hiệu</a>
                                     <ul class="megamenu hb-megamenu">
                                         <li><a href="shop-left-sidebar.html">Điện thoại</a>
                                             <ul>
@@ -170,7 +170,7 @@
                                     </ul>
                                 </li>
 
-                                <li class="megamenu-static-holder"><a href="index.html">Pages</a>
+                                <li class="megamenu-static-holder"><a href="index.html">Loại Sản Phẩm</a>
                                     <ul class="megamenu hb-megamenu">
                                         <li><a href="blog-left-sidebar.html">Blog Layouts</a>
                                             <ul>
